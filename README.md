@@ -10,4 +10,4 @@ If you forked this repository, please edit this file (README.md) to include a li
 
 This project was created by Tanav Kalidindi utilizing https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
 
-Methods and description will be updated.
+Currently integrating the Green Level High School dataset.
